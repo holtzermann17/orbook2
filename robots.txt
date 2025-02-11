@@ -1,4 +1,4 @@
-Sitemap: https://holtzermann17.github.io/orbook/sitemap.xml
+Sitemap: https://holtzermann17.github.io/orbook2/sitemap.xml
 
 User-agent: *
 Disallow:
